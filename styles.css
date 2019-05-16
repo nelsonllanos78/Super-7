@@ -1,0 +1,25 @@
+body{padding: 5em;
+background-color:#000000; }
+
+h1{text-align: center;
+color: #ff0000;
+    font-family:fantasy;
+    font-size: 32px;
+}
+h2{text-align: center;
+color:#009dff ;
+    font-family: monospace;
+    font-size: 23px
+}
+
+p{width:750px;
+font-size: 18px;
+    color: #eeff00;
+}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
